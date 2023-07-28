@@ -1,0 +1,38 @@
+/* The styles for the "Portfolio" page can be added here. 
+   Customize the styles based on your design preferences.
+*/
+
+/* Example style for the portfolio section */
+.portfolio-section {
+    background-color: blueviolet;
+    padding: 100px;
+}
+
+.portfolio-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 30px;
+}
+
+.portfolio-item {
+    text-align: center;
+}
+
+.portfolio-item img {
+    max-width: 100%;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.portfolio-item img:hover {
+    opacity: 0.8;
+}
+
+.portfolio-item h3 {
+    margin-top: 10px;
+    font-size: 18px;
+    
+}
+
+/* Additional styles can be added for the rest of the content on the Portfolio page */

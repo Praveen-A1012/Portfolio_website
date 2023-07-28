@@ -1,0 +1,22 @@
+/* The styles for the "About" page can be added here. 
+   You can customize the styles based on your design preferences.
+*/
+
+/* Example style for the "About Me" section */
+.about-section {
+    background-color:#00abf0;
+    padding: 50px;
+}
+
+.about-content h2 {
+    font-size: 36px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.about-content p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+/* Additional styles can be added for the rest of the content on the About page */

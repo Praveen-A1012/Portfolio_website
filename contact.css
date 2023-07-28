@@ -1,0 +1,22 @@
+/* The styles for the "Contact" page can be added here. 
+   Customize the styles based on your design preferences.
+*/
+
+/* Example style for the "Contact Me" section */
+.contact-section {
+    background-color: #00abf0;
+    padding: 50px;
+}
+
+.contact-content h2 {
+    font-size: 36px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.contact-content p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+/* Additional styles can be added for the rest of the content on the Contact page */
